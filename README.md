@@ -1,9 +1,9 @@
-# MERACH MR-P19 可调节哑铃 + MR-P20 哑铃架 · 3D 拆解视图
+# MERACH MR-P19 Adjustable Dumbbell + MR-P20 Dumbbell Stand · 3D Exploded View
 
-交互式 3D 拆解页面（Three.js），打开 `index.html` 即可查看：
+Interactive 3D exploded view built with Three.js. Open `index.html` to view it.
 
-- 视图切换：整套 / 哑铃 / 哑铃架
-- 拖拽旋转、滚轮缩放，点击部件拆解并查看参数
-- 颜色与工艺依据 CMF：P19 V3.0（2026-10-12）、P20 V4.0（2026-10-13）
+- Views: Full set / Dumbbell / Stand
+- Drag to rotate, scroll to zoom, click a part to explode it and see its specs
+- Colors and finishes follow the CMF: P19 V3.0 (2026-10-12), P20 V4.0 (2026-10-13)
 
-哑铃部件名称按结构与 CMF 推断，哑铃在架上的摆放为示意。
+Dumbbell part names are inferred from the CAD structure and the CMF. Dumbbell placement on the stand is illustrative.
